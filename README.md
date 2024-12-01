@@ -24,5 +24,14 @@ The application has the data visualization of the student performance using the 
 6. react-chartjs-2 3.1.0
 
 ## Screenshots
-![login](https://github.com/user-attachments/assets/d7544d94-7045-4026-9163-133ed52998f3)
 
+
+![welcome](https://github.com/user-attachments/assets/6440390c-1143-47ca-98b8-ecf13a406ffb)
+![login](https://github.com/user-attachments/assets/d7544d94-7045-4026-9163-133ed52998f3)
+![signup](https://github.com/user-attachments/assets/f95e53da-fecb-4682-a41e-093d034b03ec)
+![vis2](https://github.com/user-attachments/assets/092e9ecd-e06e-449d-a272-e5983cd9a940)
+![vis1](https://github.com/user-attachments/assets/fd396efd-e7fe-402a-886d-77eba26c9814)
+
+![Screenshot from 2023-03-15 17-14-55](https://github.com/user-attachments/assets/bcaba2c3-43cd-446f-a728-7a5339df1a2e)
+![profile](https://github.com/user-attachments/assets/8c5d76c8-310d-4f81-9da5-a08d14f01463)
+![marks](https://github.com/user-attachments/assets/78d40163-ce07-4ee2-aeb7-45afe9e384f0)
